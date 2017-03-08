@@ -1,0 +1,214 @@
+<!--li class="pricing-column green-plan">
+		<div class="pricing-title">
+		<h3>Dedicated</h3>
+		<i class="uk-icon-cloud"><img alt="" src="images/small-icon/custom/icon-ded.png"></i></div>
+
+		<ul class="pricing-content">
+			<li>Single/Dual/Quad Processors</li>
+			<li>Custom Built Servers</li>
+			<li>Easy Hardware Replacement</li>
+			<li>Fully Managed</li>
+			<li>Free Setup</li>
+		</ul>
+
+		<div class="pricing-button">
+		<h3><span class="dollar"> Starts atRs.</span>9000<br>
+		<span class="permonth">/Month</span></h3>
+		<a class="button medium price-btn" href="dedicated-server-india.html">View Plans</a></div>
+		</li>
+		<li class="pricing-column">
+		<div class="pricing-title">
+		<h3>SEO Hosting</h3>
+		<i class="uk-icon-cloud"><img alt="" src="images/small-icon/custom/icon-seo.png"></i></div>
+
+		<ul class="pricing-content">
+			<li>Fully dedicated C Class IPs</li>
+			<li>Multiple Countries C Class IPs</li>
+			<li>More than 3000 Unique Dedicated C Class IPs</li>
+			<li>WHM &amp; cPanel</li>
+		</ul>
+
+		<div class="pricing-button">
+		<h3><span class="dollar"> Starts at Rs.</span>1450<br>
+		<span class="permonth">/Month</span></h3>
+		<a class="button medium price-btn" href="seo-hosting-india.html">View Plans</a></div>
+		</li>
+		<li class="pricing-column green-plan">
+		<div class="pricing-title">
+		<h3>Cloud</h3>
+		<i class="uk-icon-cloud"><img alt="" src="images/small-icon/custom/icon-cloud.png"></i></div>
+
+		<ul class="pricing-content">
+			<li>100% SSD Storage</li>
+			<li>High Performance and Scalability</li>
+			<li>Fully Redundant</li>
+			<li>Fast Deployment</li>
+		</ul>
+
+		<div class="pricing-button">
+		<h3><span class="dollar"> Starts at Rs.</span>3000<br>
+		<span class="permonth">/Month</span></h3>
+		<a class="button medium price-btn" href="cloud-hosting-india.html">View Plans</a></div>
+		</li>
+		<li class="pricing-column">
+		<div class="pricing-title">
+		<h3>VPS</h3>
+		<i class="uk-icon-cloud"><img alt="" src="images/small-icon/custom/icon-vps.png"></i></div>
+
+		<ul class="pricing-content">
+			<li>Quick Setup</li>
+			<li>WHM Control Panel</li>
+			<li>Fully Managed</li>
+			<li>24/7 Support</li>
+			<li>Continuous Data Protection</li>
+		</ul>
+
+		<div class="pricing-button">
+		<h3><span class="dollar">Starts at Rs.</span>1900<br>
+		<span class="permonth">/Month</span></h3>
+		<a class="button medium price-btn" href="vps-india.html">View Plans</a></div>
+		</li>
+	</ul>
+	</li>
+	<li aria-hidden="true"><!-- This is Cloud VPS plan -->
+	<!--ul class="pricing-grid three-up">
+		<li class="pricing-column">
+		<div class="pricing-title">
+		<h3>Cloud VPS 1</h3>
+
+		<p>Perfect Hosting for Simple website</p>
+		</div>
+
+		<ul class="pricing-content">
+			<li>5 GB Storage</li>
+			<li>10 GB Bandwith / Monthly</li>
+			<li>15 Email Accounts</li>
+			<li>2 Domain Hosted Support</li>
+		</ul>
+
+		<div class="pricing-button">
+		<h3><span class="dollar">$</span>29<br>
+		<span class="permonth">/Month</span></h3>
+		<a class="button medium price-btn" href="#">Order Now</a></div>
+		</li>
+		<li class="pricing-column green-plan">
+		<div class="pricing-title">
+		<h3>Cloud VPS 2</h3>
+
+		<p>Web hosting with rich Features</p>
+		</div>
+
+		<ul class="pricing-content">
+			<li>100 GB Storage</li>
+			<li>500 GB Bandwith / Monthly</li>
+			<li>35 Email Accounts</li>
+			<li>5 Domain Hosted Support</li>
+		</ul>
+
+		<div class="pricing-button">
+		<h3><span class="dollar">$</span>59<br>
+		<span class="permonth">/Month</span></h3>
+		<a class="button medium price-btn" href="#">Order Now</a></div>
+		</li>
+		<li class="pricing-column">
+		<div class="pricing-title">
+		<h3>Cloud VPS 3</h3>
+
+		<p>Our top hosting for anyone Expert</p>
+		</div>
+
+		<ul class="pricing-content">
+			<li>500 GB Storage</li>
+			<li>1 TB Bandwith / Monthly</li>
+			<li>80 Email Accounts</li>
+			<li>12 Domain Hosted Support</li>
+		</ul>
+
+		<div class="pricing-button">
+		<h3><span class="dollar">$</span>99<br>
+		<span class="permonth">/Month</span></h3>
+		<a class="button medium price-btn" href="#">Order Now</a></div>
+		</li>
+	</ul>
+	</li>
+	<li aria-hidden="true"><!-- This is Dedicated Host plan -->
+	<!--ul class="pricing-grid three-up">
+		<li class="pricing-column">
+		<div class="pricing-title">
+		<h3>Dedicated 1</h3>
+
+		<p>Perfect Hosting for Simple website</p>
+		</div>
+
+		<ul class="pricing-content">
+			<li>5 GB Storage</li>
+			<li>10 GB Bandwith / Monthly</li>
+			<li>15 Email Accounts</li>
+			<li>2 Domain Hosted Support</li>
+		</ul>
+
+		<div class="pricing-button">
+		<h3><span class="dollar">$</span>29<br>
+		<span class="permonth">/Month</span></h3>
+		<a class="button medium price-btn" href="#">Order Now</a></div>
+		</li>
+		<li class="pricing-column green-plan">
+		<div class="pricing-title">
+		<h3>Dedicated 2</h3>
+
+		<p>Web hosting with rich Features</p>
+		</div>
+
+		<ul class="pricing-content">
+			<li>100 GB Storage</li>
+			<li>500 GB Bandwith / Monthly</li>
+			<li>35 Email Accounts</li>
+			<li>5 Domain Hosted Support</li>
+		</ul>
+
+		<div class="pricing-button">
+		<h3><span class="dollar">$</span>59<br>
+		<span class="permonth">/Month</span></h3>
+		<a class="button medium price-btn" href="#">Order Now</a></div>
+		</li>
+		<li class="pricing-column">
+		<div class="pricing-title">
+		<h3>Dedicated 3</h3>
+
+		<p>Our top hosting for anyone Expert</p>
+		</div>
+
+		<ul class="pricing-content">
+			<li>500 GB Storage</li>
+			<li>1 TB Bandwith / Monthly</li>
+			<li>80 Email Accounts</li>
+			<li>12 Domain Hosted Support</li>
+		</ul>
+
+		<div class="pricing-button">
+		<h3><span class="dollar">$</span>99<br>
+		<span class="permonth">/Month</span></h3>
+		<a class="button medium price-btn" href="#">Order Now</a></div>
+		</li>
+	</ul>
+	</li-->
+	
+	<section class="section-grey">
+<div class="uk-grid uk-grid-collapse">
+<div class="uk-width-1-2 uk-width-medium-1-1 uk-width-small-1-1 uk-padding content-bg1"><img alt="" class="notebook-align" src="images/sample/sample_object1.png"></div>
+
+<div class="uk-width-1-2 uk-width-medium-1-1 uk-width-small-1-1 uk-padding">
+<div class="feature-wrap uk-grid">
+<h1 class="uk-margin-medium-top uk-margin-medium-bottom">Indian Webhosting</h1>
+
+<div class="uk-width-1-2 uk-width-small-1-1">
+<p class="uk-margin-medium-bottom">Bharat Web Host is a complete and affordable Web Hosting company in India founded in 2006 and operates from InfoPark, Kochi, Kerala. Unlike others we incorporate all hosting concepts including shared, reseller, vps, dedicated, cloud and seo hosting.&nbsp;</p>
+<a class="uk-button uk-button-small idz-button-outline uk-margin-top" href="about.html">Learn More</a></div>
+
+<div class="uk-width-1-2 uk-width-small-1-1 idz-margin-top-ml">
+<p>We have our own inhouse 24/7 technical team and administrates over 10000 domains live and real time. Ours are one of the best Web Hosting available in the market and trusted by clients from all over the globe.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
