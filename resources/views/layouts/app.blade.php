@@ -111,9 +111,9 @@
 			
 
 			<ul id="demo1">
-				<li><a href="#"><img src="public/images/slides/slide1.jpg" alt="This is caption 1 <a href='#link'>Even with links!</a>"></a></li>
-				<li><a href="#"><img src="public/images/slides/slide2.jpg" alt="This is caption 2"></a></li>
-				<li><a href="#"><img src="public/images/slides/slide3.jpg" alt="And this is some very long caption for slide 3. Yes, really long."></a></li>
+				<li><a href="#"><img src="public/images/slides/slide1.jpg" alt="<a href='http://shop.cgwebservices.org/web-hosting/index.php'>VIEW PLANS</a>"></a></li>
+				<li><a href="#"><img src="public/images/slides/slide2.jpg"  alt="<a href='http://shop.cgwebservices.org/cloudhosting.php'>VIEW PLANS</a>"></a></li>
+				<li><a href="#"><img src="public/images/slides/slide3.jpg" alt="<a href='http://shop.cgwebservices.org/combo-offers'>VIEW PLANS</a>"></a></li>
 			</ul>
 		</section>
 
